@@ -1,0 +1,33 @@
+WS INŻYNIERIA — GOTOWA STRONA WWW
+
+Wersja według zaakceptowanej makiety: stalowy niebieski i miedziane akcenty.
+Lokalizacja: Szczecin i okolice | zachodniopomorskie.
+Telefon: +48 515 152 897. Domena: https://inspektornadzoru.com.pl/.
+
+JAK OPUBLIKOWAĆ
+1. Rozpakuj ZIP. Otwórz index.html w przeglądarce, aby obejrzeć stronę lokalnie.
+2. Wgraj index.html, style.css, script.js i folder assets do publicznego katalogu
+   hostingu domeny (zwykle public_html lub www). Zachowaj strukturę folderów.
+3. Włącz HTTPS i sprawdź adres https://inspektornadzoru.com.pl/.
+4. W Profilu Firmy w Google ustaw ten adres jako stronę internetową.
+
+Strona nie wymaga WordPressa, npm, instalacji bibliotek ani bazy danych.
+Teksty i telefon edytujesz w index.html. Kolory i układ są w style.css.
+Menu jest stale widoczne; script.js aktualizuje rok w stopce. Formularza kontaktowego ani analityki nie dodano.
+Kontakt działa przez kliknięcie telefonu; link prowadzi także do Map Google.
+Wszystkie zdjęcia i logo są lokalne, bez zewnętrznych fontów lub bibliotek.
+
+GRAFIKA
+budowa.webp — przesłane zdjęcie budowy; granatowe przyciemnienie dodaje CSS.
+logo-ws-inzynieria.webp — przesłane logo wysokiej rozdzielczości.
+kierownik-kontraktu.webp — wygenerowana ilustracja kierownika odwróconego tyłem,
+  z projektem w rękach i logo na kurtce; nie jest portretem właściciela.
+
+DOSTOSOWANIE DO EKRANU
+Układ komputerowy ma trzy kolumny usług. Na telefonie sekcje ustawiają się
+pionowo, wszystkie zakładki menu są stale widoczne, a przycisk telefonu jest dostępny u dołu ekranu.
+Na telefonie menu ma stały układ dwóch kolumn, bez przycisku rozwijania.
+Nagłówki, odstępy i zdjęcia dostosowują się do szerokości okna.
+
+Nie publikuj tej instrukcji. Paczka stanowi gotowe pliki do wgrania.
+Strona nie została w tej sesji opublikowana na docelowej domenie.
